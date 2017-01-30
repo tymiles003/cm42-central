@@ -4,6 +4,7 @@
 ### Added
 - the option to each project has its own tag group
 - Fix user list refreshing when adding or removing team members
+- First time interface tour
 
 ### Fixed
 - Fix docker setup for development env.
