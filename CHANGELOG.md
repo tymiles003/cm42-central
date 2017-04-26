@@ -46,7 +46,6 @@
 ### Added
 - Added a changelog. We will keep tracking from now and on!
 - Added translations on reports description.
-- Added First time tour.
 
 ### Changed
 - Redesign project reports and edit password pages.
